@@ -2,12 +2,13 @@ import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import About from "./components/About/About";
 import Skills from "./components/Skills/Skills";
-import Experience from "./components/Experience/Experience";
-import Work from "./components/Work/Work";
+import Projects from "./components/Projects/Projects";
+import CodingProfiles from "./components/CodingProfiles/CodingProfiles";
 import Education from "./components/Education/Education";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from './components/BlurBlob';
+import { GoProjectSymlink } from "react-icons/go";
 
 const App = () => {
   return (
@@ -21,8 +22,8 @@ const App = () => {
         <Navbar />
         <About />
         <Skills />
-        <Experience />
-        <Work />
+        <Projects/>
+        <CodingProfiles/>
         <Education />
         <Contact />
         <Footer />
