@@ -1,12 +1,12 @@
 # 💻 Jessica Kamal — Developer Portfolio
 
 Welcome to my personal developer portfolio!  
-This website showcases my skills, projects, and experience in full-stack development and AI.
+This website showcases my skills and projects as well as my interests in domain of web development, AI/ML , NLP and Data Structures and Algotithms.
 
 ## 🚀 Tech Stack
 - **Framework:** React.js
 - **Styling:** Tailwind CSS
-- **Deployment:** GitHub Pages (or Vercel/Netlify)
+- **Deployment:** Vercel
 - **Version Control:** Git & GitHub
 
 ## 📁 Project Structure
@@ -15,7 +15,7 @@ This website showcases my skills, projects, and experience in full-stack develop
 - `public/` — Static files and icons
 
 ## 🌐 Live Demo
-Check out the deployed site here: [Your Live URL](https://yourusername.github.io/portfolio)  
+Check out the deployed site here: [Live URL](portfolio-steel-sigma-52.vercel.app)  
 *(Update this link once you deploy!)*
 
 ## ⚙️ How to Run Locally
