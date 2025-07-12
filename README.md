@@ -15,7 +15,7 @@ This website showcases my skills and projects as well as my interests in domain 
 - `public/` — Static files and icons
 
 ## 🌐 Live Demo
-Check out the deployed site here: [Live URL](portfolio-steel-sigma-52.vercel.app)  
+Check out the deployed site here: [Live URL](https://portfolio-steel-sigma-52.vercel.app)  
 *(Update this link once you deploy!)*
 
 ## ⚙️ How to Run Locally
